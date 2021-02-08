@@ -1,3 +1,7 @@
 this is a book
 abcd
+<<<<<<< HEAD
 // comment
+=======
+1234
+>>>>>>> feature2
